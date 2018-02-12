@@ -7,12 +7,12 @@ This is a web app that allows users to sign up and recieve email alerts through 
 ## User Stories
 * A user can sign in to the application
 * A user can create a profile and set profile with your preffered email
-* A user can delete their accout 
+* A user can delete their account
 * A user can choose the phone number they would love to recieve alerts on
-* A an authorized user can rate the app 
+* A user can reply to an email through text messages
 * A user can add or change the phone number to get alerts from
 * A user can add or change the email that he/she recieves alerts from
-*  
+* A an authorized user can rate the app 
 
 ## Set Up and Installation
 
